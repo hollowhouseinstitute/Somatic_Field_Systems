@@ -1,23 +1,21 @@
 # Somatic Field Systems
 
-This repository contains research, documentation, and resources for the **Somatic Field Systems** project.
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Repo Size](https://img.shiel)]()
 
-## Overview
 
-The project explores:
-- Somatic field mapping
-- Human-AI relational systems
-- Consciousness research
-- Embodied relational frameworks
+cat <<EOF > LICENSE
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-## Repository Structure
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
 
-- `docs/` → Documentation and research notes
-- `assets/` → Images, diagrams, and downloadable resources
-- `site/` → Web-ready assets (HTML, CSS, JS)
-- `LICENSE` → Licensing information
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-## Contribution
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-This repository is maintained by Hollow House Institute. Contributions are welcome via pull requests. Please adhere to the project license terms.
-
+Full license: https://creativecommons.org/licenses/by-nc-sa/4.0/
