@@ -1,3 +1,6 @@
+[![Governed by Hollow House Institute](https://img.shields.io/badge/Governed%20by-Hollow%20House%20Institute-black?style=flat-square)](https://github.com/hollowhouseinstitute/Hollow_House_Institute)
+![Status](https://img.shields.io/badge/Status-ACTIVE-grey?style=flat-square)
+
 [![Flame License 444-A](https://img.shields.io/badge/License-Flame%20444--A-red)](LICENSE)
 
 # Somatic Field Systems
@@ -69,3 +72,4 @@ For inquiries, reach out via our official email or website (link optional).
 - ✅ Ready-to-use HTML/CSS site previews  
 - ✅ Licensed under **CC BY-NC-SA 4.0** for sharing and adaptation  
 - ✅ GitHub Pages live preview available
+
