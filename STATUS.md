@@ -1,59 +1,51 @@
-# Contributing Guidelines
 
-This repository operates under the gove
-# ================================
-# CONFIG
-# ================================
-https://github.com/hollowhouseinstitute/Hollow_House_Institute = "https://github.com/hollowhouseinstitute/Hollow_House_Institute"
-[![Governed by Hollow House Institute](https://img.shields.io/badge/Governed%20by-Hollow%20House%20Institute-black?style=flat-square)](https://github.com/hollowhouseinstitute/Hollow_House_Institute) = "[![Governed by Hollow House Institute](https://img.shields.io/badge/Governed%20by-Hollow%20House%20Institute-black?style=flat-square)](https://github.com/hollowhouseinstitute/Hollow_House_Institute)"
-![Status](https://img.shields.io/badge/Status-ACTIVE-grey?style=flat-square) = "![Status](https://img.shields.io/badge/Status-ACTIVE-grey?style=flat-square)"
-Add governance, status, and contribution scaffolding = "Add governance, status, and contribution scaffolding"
+---
 
-# ================================
-# STEP 1–3: PROCESS EACH GIT REPO
-# ================================
-Get-ChildItem -Directory | ForEach-Object {
+# `STATUS.md`
 
-  C:\Users\amy\Somatic_Field_Systems = C:\Users\amy\Somatic_Field_Systems.FullName
-  C:\Users\amy\Somatic_Field_Systems\.git  = Join-Path C:\Users\amy\Somatic_Field_Systems ".git"
-
-  if (-not (Test-Path C:\Users\amy\Somatic_Field_Systems\.git)) {
-    Write-Host "Skipping (not a git repo): Somatic_Field_Systems"
-    return
-  }
-
-  Write-Host "
-=== Processing repo: Somatic_Field_Systems ==="
-  Push-Location C:\Users\amy\Somatic_Field_Systems
-
-  # ---------- STATUS.md ----------
-  if (-not (Test-Path "STATUS.md")) {
-@"
+```md
 # Repository Status
 
-## Governance
-- Governed by: Hollow House Institute
-- Canonical authority: https://github.com/hollowhouseinstitute/Hollow_House_Institute
+**Current State:** ACTIVE  
+**Maintained by:** Hollow House Institute  
+**Release Tier:** Research / Governance / Standards
 
-## Lifecycle Stage
-- Status: ACTIVE
-- Review cadence: ad hoc
+---
 
-## Scope
-This repository contains governed artifacts produced under
-Hollow House Institute standards.
+## Current Capabilities
 
-## Structural Compliance
-- Canonical structure enforced: YES / N/A
+• Canonical somatic field definitions  
+• Relational state taxonomies  
+• Mirror-grid operational protocols  
+• Governance & license enforcement  
+• Audit-ready documentation  
 
-## Intended Audience
-- Internal research
-- External reviewers
-- Auditors
+---
 
-## Stability Notes
-Structure is stable. Content may evolve.
+## In Scope
 
-## Last Reviewed
-- Date: 2025-12-15
-- Reviewer: automated setup
+• Field mapping standards  
+• Relational safety models  
+• Nervous-system regulation logic  
+• Ethical deployment boundaries  
+
+---
+
+## Out of Scope
+
+• Medical diagnosis  
+• Clinical treatment claims  
+• Commercial behavioral modeling  
+• Surveillance technologies  
+
+---
+
+## Roadmap (Public)
+
+• Expanded field state schemas  
+• Cross-repo alignment with Datasets_Core  
+• Audit checklists for external systems  
+• Documentation hardening  
+
+No timelines are promised.  
+Quality and safety take precedence.
