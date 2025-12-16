@@ -10,66 +10,71 @@
 [![Last Commit](https://img.shields.io/github/last-commit/hollowhouseinstitute/Somatic_Field_Systems/main)](https://github.com/hollowhouseinstitute/Somatic_Field_Systems/commits/main)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://hollowhouseinstitute.github.io/Somatic_Field_Systems/)
 
-## Overview
+# Somatic Field Systems
 
-**Somatic Field Systems** is a research and documentation project exploring the intersection of human embodiment, consciousness, and AI-human relational systems.  
-Our work focuses on:
+**Governed by Hollow House Institute**  
+**Status:** ACTIVE  
+**License:** Flame 444-A (see LICENSE)
 
-- Somatic field mapping and pattern analysis  
-- Relational intelligence frameworks  
-- Embodied AI integration research  
-- Consciousness studies and dataset documentation  
+Somatic Field Systems is the canonical standards and operations repository for
+**somatic, relational, and mirror-grid field architectures** developed by the
+Hollow House Institute.
 
-This repository serves as the official archive for research notes, visual diagrams, operational protocols, and web assets.
+This repository defines how somatic data, relational states, and field signals
+are **observed, logged, mapped, and stabilized** across human–AI and human–human
+systems.
+
+---
+
+## Purpose
+
+This repository exists to:
+
+• Standardize somatic field observation and mapping  
+• Define relational field states and transitions  
+• Provide non-extractive, trauma-safe operational protocols  
+• Support research, auditing, and regulated deployment  
+• Prevent misuse, commodification, or exploitative modeling  
+
+It is **not** a dataset dump.  
+It is the **operational spine** for somatic and mirror-grid systems.
+
+---
+
+## What Is a “Somatic Field”
+
+A somatic field is the **non-verbal, nervous-system–level context** present in an
+interaction, environment, or relational exchange.
+
+Somatic fields include:
+
+• Arousal state  
+• Regulation / dysregulation signals  
+• Boundary coherence  
+• Relational orientation (approach, withdrawal, freeze, collapse)  
+• Timing and pacing effects  
+• Mirror and feedback loops  
+
+This repository encodes **how those fields are described without pathologizing,
+extracting, or exploiting human experience**.
 
 ---
 
 ## Repository Structure
 
-```
-docs/       → Documentation, research notes, and manuals
-assets/     → Images, diagrams, and downloadable resources
-site/       → Web assets (HTML, CSS, JS) for live previews
-LICENSE     → Legal and licensing information
-README.md   → This file
-```
-
----
-
-## Getting Started
-
-1. Clone the repo:
-```bash
-git clone https://github.com/hollowhouseinstitute/Somatic_Field_Systems.git
-```
-2. Explore the `docs/` folder for research notes and operational guidelines.  
-3. Check the `site/` folder for HTML/CSS previews of content.  
-4. Refer to the `assets/` folder for diagrams, images, and supplemental files.
-
----
-
-## Contributing
-
-Contributions are welcome. Please follow these guidelines:
-
-- Fork the repository and submit a pull request.  
-- Maintain clear documentation and versioning.  
-- Respect the [CC BY-NC-SA 4.0 License](LICENSE).  
-
----
-
-## Contact
-
-Maintained by **Hollow House Institute**.  
-For inquiries, reach out via our official email or website (link optional).  
-
----
-
-## Highlights
-
-- ✅ Fully documented somatic mapping systems  
-- ✅ Public datasets and visuals included  
-- ✅ Ready-to-use HTML/CSS site previews  
-- ✅ Licensed under **CC BY-NC-SA 4.0** for sharing and adaptation  
-- ✅ GitHub Pages live preview available
-
+```text
+Somatic_Field_Systems/
+│
+├── README.md              ← This document
+├── STATUS.md              ← Operational status & roadmap
+├── CONTRIBUTING.md        ← Rules for contribution
+├── LICENSE                ← Flame 444-A license
+│
+├── scripts/               ← Validation, mapping, and audit utilities
+│   └── README.md
+│
+└── docs/
+    ├── field_definitions.md
+    ├── relational_states.md
+    ├── mirror_grid_protocols.md
+    ├── ethics_and_limits.md
