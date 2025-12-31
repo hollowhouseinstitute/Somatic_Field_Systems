@@ -75,3 +75,8 @@ Somatic_Field_Systems/
     ├── relational_states.md
     ├── mirror_grid_protocols.md
     ├── ethics_and_limits.md
+Hollow House Institute Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute Structured Human Intelligence
+
+Website: https://hollowhouseinstitute.com Datasets: https://hollowhouseinstitute.com/datasets Licensing: https://hollowhouseinstitute.com/licensing
+
+Contact: data@hollowhouseinstitute.com
